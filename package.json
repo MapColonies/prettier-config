@@ -1,7 +1,7 @@
 {
   "name": "@map-colonies/prettier-config",
   "version": "0.0.1",
-  "description": "TypeScript and JavaScript classes for osm elements",
+  "description": "Common prettier configuration for the MapColonies project",
   "main": "./index.js",
   "scripts": {
     "release": "standard-version",
