@@ -27,21 +27,21 @@ Add the configuration using one of these methods:
 
 ```json
 {
-  "prettier": "@mapcolonies/prettier-config"
+  "prettier": "@map-colonies/prettier-config"
 }
 ```
 
 2. Create a `.prettierrc` JSON file:
 
 ```json
-"@mapcolonies/prettier-config"
+"@map-colonies/prettier-config"
 ```
 
 3. If you need to customize some options, create a `.prettierrc.js` file:
 
 ```javascript
 module.exports = {
-  ...require("@mapcolonies/prettier-config"),
+  ...require("@map-colonies/prettier-config"),
   // your overrides here
 };
 ```
