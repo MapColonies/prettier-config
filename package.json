@@ -19,10 +19,10 @@
   },
   "homepage": "https://github.com/MapColonies/prettier-config#readme",
   "devDependencies": {
-    "@commitlint/cli": "^19.6.1",
+    "@commitlint/cli": "^19.7.1",
     "@map-colonies/infra-copilot-instructions": "^1.0.0",
     "@map-colonies/commitlint-config": "^1.1.0",
-    "commitlint": "^19.6.1",
+    "commitlint": "^19.7.1",
     "husky": "^9.1.7"
   }
 }
